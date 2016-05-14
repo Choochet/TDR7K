@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDR7K", "TDR7K\TDR7K.csproj", "{B6D71421-A23D-4484-9715-3CE0EE12270C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D71421-A23D-4484-9715-3CE0EE12270C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D71421-A23D-4484-9715-3CE0EE12270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D71421-A23D-4484-9715-3CE0EE12270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D71421-A23D-4484-9715-3CE0EE12270C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
